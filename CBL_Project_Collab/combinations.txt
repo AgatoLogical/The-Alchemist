@@ -1,0 +1,50 @@
+NOT KNOWN: 
+    Question Mark <a href="https://www.flaticon.com/free-icons/question-mark" title="question mark icons">Question mark icons created by Freepik - Flaticon</a>
+
+NATURE: 
+    1. Air <a href="https://www.freepik.com/search?format=search&last_filter=query&last_value=air&query=air&shape=lineal-color&type=icon">Icon by Freepik</a>
+    2. Earth <a href="https://www.freepik.com/search?format=search&last_filter=query&last_value=earth&query=earth&shape=lineal-color&type=icon">Icon by Freepik</a>
+    3. Fire <a href="https://www.freepik.com/search?format=search&last_filter=query&last_value=fire&query=fire&shape=lineal-color&type=icon">Icon by Freepik</a>
+    4. Water <a href="https://www.freepik.com/search?format=search&last_filter=query&last_value=water&query=water&type=icon">Icon by Freepik</a>
+    5. Lava = Earth + Fire <a href="https://www.flaticon.com/free-icons/lava" title="lava icons">Lava icons created by Paul J. - Flaticon</a>
+    6. Plant = Earth + Water <a href="https://www.freepik.com/search?format=search&last_filter=query&last_value=plant&query=plant&type=icon">Icon by Freepik</a>
+    7. Tree = Plant + Water <a href="https://www.flaticon.com/free-icons/tree" title="tree icons">Tree icons created by justicon - Flaticon</a>
+    8. Wood = Tree + Earth <a href="https://www.flaticon.com/free-icons/wood" title="wood icons">Wood icons created by Freepik - Flaticon</a>
+    9. Sand = Stone + Air <a href="https://www.flaticon.com/free-icons/sand" title="sand icons">Sand icons created by Freepik - Flaticon</a>
+    10. Mud = Sand + Water <a href="https://www.flaticon.com/free-icons/ecology-and-environment" title="ecology and environment icons">Ecology and environment icons created by Marz Gallery - Flaticon</a>
+    11. Dust = Earth + Air <a href="https://www.flaticon.com/free-icons/dust" title="dust icons">Dust icons created by Freepik - Flaticon</a>
+    12. Energy = Air + Fire <a href="https://www.freepik.com/search?format=search&last_filter=page&last_value=2&page=2&query=e%3Dmc2&type=icon">Icon by Freepik</a>
+    13. Pressure = Air + Energy <a href="https://www.flaticon.com/free-icons/resilience" title="resilience icons">Resilience icons created by Freepik - Flaticon</a>
+
+STONE AGE:
+    1. Stone = Air + Lava <a href="https://www.flaticon.com/free-icons/granite" title="Granite icons">Granite icons created by Freepik - Flaticon</a>
+    2. Boat = Water + Wood <a href="https://www.flaticon.com/free-icons/boat" title="boat icons">Boat icons created by surang - Flaticon</a>
+    3. Clay = Sand + Mud <a href="https://www.flaticon.com/free-icons/clay" title="clay icons">Clay icons created by Freepik - Flaticon</a>
+    4. Pottery = Clay + Fire <a href="https://www.flaticon.com/free-icons/broken" title="broken icons">Broken icons created by Freepik - Flaticon</a>
+    5. Tools = Wood + Stone <a href="https://www.flaticon.com/free-icons/tools" title="tools icons">Tools icons created by Freepik - Flaticon</a>
+    6. Wheel = Wood + Tools <a href="https://www.flaticon.com/free-icons/wheel" title="wheel icons">Wheel icons created by Freepik - Flaticon</a>
+    7. Farming = Earth + Tools <a href="https://www.flaticon.com/free-icons/farming" title="farming icons">Farming icons created by Freepik - Flaticon</a>
+    8. Gold = Stone + Tools <a href="https://www.flaticon.com/free-icons/gold-bars" title="Gold Bars icons">Gold Bars icons created by surang - Flaticon</a>
+
+IRON AGE:
+    1. Metal = Fire + Stone <a href="https://www.flaticon.com/free-icons/metal" title="metal icons">Metal icons created by surang - Flaticon</a>
+    2. Sword = Metal + Wood <a href="https://www.flaticon.com/free-icons/sword" title="sword icons">Sword icons created by Iconic Panda - Flaticon</a>
+    3. Water Wheel = Water + Wheel <a href="https://www.flaticon.com/free-icons/mill" title="mill icons">Mill icons created by Freepik - Flaticon</a>
+    4. Glass = Sand + Fire <a href="https://www.flaticon.com/free-icons/glass" title="glass icons">Glass icons created by smalllikeart - Flaticon</a>
+    5. Mirror = Glass + Metal <a href="https://www.flaticon.com/free-icons/mirror" title="mirror icons">Mirror icons created by Freepik - Flaticon</a>
+    6. Coins = Gold + Tools <a href="https://www.flaticon.com/free-icons/roman" title="roman icons">Roman icons created by Freepik - Flaticon</a>
+
+MODERN:
+    1. Gunpowder = Fire + Dust <a href="https://www.flaticon.com/free-icons/powder" title="powder icons">Powder icons created by Smashicons - Flaticon</a>
+    2. Explosion = Gunpowder + Fire <a href="https://www.flaticon.com/free-icons/explosion" title="explosion icons">Explosion icons created by Freepik - Flaticon</a>
+    3. Atomic Bomb = Energy + Explosion <a href="https://www.flaticon.com/free-icons/explosion" title="explosion icons">Explosion icons created by Freepik - Flaticon</a>
+    4. Electricity = Metal + Energy <a href="https://www.flaticon.com/free-icons/energy" title="energy icons">Energy icons created by nawicon - Flaticon</
+    5. Computer = Tools + Electricity <a href="https://www.flaticon.com/free-icons/computer" title="computer icons">Computer icons created by Freepik - Flaticon</a>
+    6. Lightbulb = Electricity + Glass <a href="https://www.flaticon.com/free-icons/idea" title="idea icons">Idea icons created by Freepik - Flaticon</a>
+    7. Paper = Wood + Pressure <a href="https://www.flaticon.com/free-icons/paper" title="paper icons">Paper icons created by Freepik - Flaticon</a>
+
+<a href='https://pngtree.com/freepng/alchemist-clipart-stylized-illustration-showing-a-chemist-and-some-jars-cartoon-vector_11066395.html'>png image from pngtree.com/</a>
+
+book button <a href="https://www.flaticon.com/free-icons/book" title="book icons">Book icons created by Freepik - Flaticon</a>
+
+confetti <a href="https://www.flaticon.com/free-icons/confetti" title="confetti icons">Confetti icons created by Freepik - Flaticon</a>
